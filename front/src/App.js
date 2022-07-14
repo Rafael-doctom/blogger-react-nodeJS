@@ -1,10 +1,9 @@
+import RoutesNavigation from "./routes";
 
 function App() {
   return (
     <>
-      <h2>
-        Hello!
-      </h2>
+      <RoutesNavigation />
     </>
   );
 }
